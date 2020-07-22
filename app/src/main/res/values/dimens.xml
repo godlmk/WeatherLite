@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- 字体大小 -->
+    <dimen name="text_size_smaller">12sp</dimen>
+    <dimen name="text_size_small">14sp</dimen>
+    <dimen name="text_size_normal">16sp</dimen>
+    <dimen name="text_size_middle">18sp</dimen>
+    <dimen name="text_size_large">20sp</dimen>
+    <dimen name="text_size_larger">22sp</dimen>
+    <dimen name="text_size_bigest">40sp</dimen>
+
+    <!-- 内边距 -->
+    <dimen name="padding_vertical">10dp</dimen>
+    <dimen name="padding_vertical_large">20dp</dimen>
+    <dimen name="padding_horizontal">20dp</dimen>
+    <dimen name="padding_horizontal_large">40dp</dimen>
+
+    <!-- 外边距 -->
+    <dimen name="margin_small">6dp</dimen>
+    <dimen name="margin_normal">10dp</dimen>
+    <dimen name="margin_large">20dp</dimen>
+    <dimen name="margin_larger">40dp</dimen>
+    <dimen name="margin_bigest">100dp</dimen>
+
+    <!-- 圆角大小 -->
+    <dimen name="circular_normal">10dp</dimen>
+    <dimen name="circular_large">20dp</dimen>
+
+    <!--  元素大小  -->
+    <dimen name="size_smaller">12dp</dimen>
+    <dimen name="size_small">16dp</dimen>
+    <dimen name="size_normal">24dp</dimen>
+    <dimen name="size_large">30dp</dimen>
+    <dimen name="size_larger">44dp</dimen>
+    <dimen name="size_bigest">60dp</dimen>
+
+</resources>

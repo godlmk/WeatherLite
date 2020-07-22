@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">雪花天气</string>
+    <string name="edt_search">按城市名称搜索</string>
+    <string name="tv_search">搜索</string>
+    <string name="centigrade">℃</string>
+    <string name="feels_like">体感</string>
+    <string name="humidity">湿度</string>
+    <string name="pressure">气压</string>
+    <string name="precip">降水量</string>
+    <string name="vis">能见度</string>
+    <string name="cloud">云量</string>
+    <string name="dew">露点</string>
+    <string name="daily">天气预报</string>
+    <string name="day">白天</string>
+    <string name="night">夜间</string>
+    <string name="suggestion">生活建议</string>
+</resources>
